@@ -1,0 +1,5 @@
+a=input("First Number: ")
+a=float(a)
+b=input("Second Number: ")
+b=float(b)
+print("Addition: ",a+b,"\nSubstraction: ",a-b,"\nMultiplication: ",a*b,"\nDivision: ",a/b)
